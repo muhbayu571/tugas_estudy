@@ -1,0 +1,59 @@
+<form method="post" enctype="multipart/form-data" action="https://usni.estudy.id/mahasiswa/Tugas/saveorup">
+									<input type="hidden" name="tugas_id" value="949">
+									<input type="hidden" name="pelajaran_id" value="21054">
+									<input type="hidden" name="kuliah_id" value="1289">
+									<input type="hidden" name="jenis_tugas_hasil" value="TUGAS_HASIL_INDIVIDU">
+									<dl class="row">
+										<dt class="col-sm-3">Mata Kuliah</dt>
+										<dd class="col-sm-9">TI215137 - Etika Bisnis dan Profesi</dd>
+
+										<dt class="col-sm-3">Sesi Pertemuan</dt>
+										<dd class="col-sm-9">7 - Pertemuan 7 (Etika Bisnis Selasa Pagi 08.00 s.d 09.40) TI</dd>
+
+										<dt class="col-sm-3 text-truncate">Jenis Tugas</dt>
+										<dd class="col-sm-9">Tugas Individu</dd>
+
+										<dt class="col-sm-3">Waktu</dt>
+										<dd class="col-sm-9">20 Oktober 2020 08:00 s/d 20 Oktober 2020 22:00</dd>
+
+										<dt class="col-sm-3">Deskripsi</dt>
+										<dd class="col-sm-9">
+																				1.&nbsp;&nbsp;&nbsp;&nbsp; Apa&nbsp;yang&nbsp;anda&nbsp;ketahui&nbsp;tentang&nbsp;Telekomunikasi
+?2.&nbsp;&nbsp;&nbsp;&nbsp;Dalam&nbsp;&nbsp;UU&nbsp;&nbsp;Telekomunikasi&nbsp;di&nbsp;Indonesia&nbsp;terdapat&nbsp;beberapa&nbsp;Regulasi&nbsp;yang&nbsp;diatur&nbsp;,&nbsp;Sebutkan&nbsp;Regulasi&nbsp;tersebut&nbsp;dan&nbsp;jelaskan&nbsp;secara&nbsp;singkat.3.&nbsp;&nbsp;Mengapa&nbsp;Telekomunikasi&nbsp;merupakan&nbsp;bagian&nbsp;yang&nbsp;tak&nbsp;terpisahkan&nbsp;dari&nbsp;Telematika&nbsp;?																																			</dd>
+
+										<dt class="col-sm-3 text-truncate">File Tugas</dt>
+										<dd class="col-sm-9">
+											-										</dd>
+										
+										<dt class="col-sm-3">Upload Pengerjaan</dt>
+										<dd class="col-sm-9">
+																																				<input type="file" name="lampiran" accept="application/pdf, application/msword, application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/x-xls, application/vnd.ms-powerpoint, application/vnd.openxmlformats-officedocument.presentationml.presentation, application/vnd.openxmlformats-officedocument.wordprocessingml.document, application/x-zip, application/zip, application/x-zip-compressed, application/x-rar-compressed" data-max-size="52428800" class="lampiran"> 
+												<br>
+												<small style="color: red">* <i>Jenis file yang didukung <b>PDF / Powerpoint / Word / Excel / ZIP / RAR</b></i></small><i>
+												<small style="color: red">Dengan ukuran maksimal <b>10MB</b></small></i><br>
+																																						<i>Sudah ada file yang diupload &nbsp;<a target="_blank" href="https://usni.estudy.id/./storage/tugas/hasil/2020/ba649bd0cc59e6b41e167ddf4e38ceb8.docx"><i class="fa fa-download"></i> Lihat file</a></i>
+																						</dd>
+										
+										
+																					<input type="hidden" name="anggota[]" value="11545">
+										
+										<dt class="col-sm-3"></dt>
+																					<dd class="col-sm-9"><input type="submit" class="btn btn-primary" value="Submit Data"></dd>
+										
+										<div class="col-sm-12">
+											<!-- <div class="progress" style="display:none">
+												<div id="progressBar" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+													<span class="sr-only">0%</span>
+												</div>
+											</div> -->
+											<!-- <div class="msg alert alert-info text-left" style="display:none"></div> -->
+										</div>
+									</dl>
+								</form>
+
+
+
+
+tombol upload tugas dibawah ini
+
+<input type="file" name="lampiran" accept="application/pdf, application/msword, application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/x-xls, application/vnd.ms-powerpoint, application/vnd.openxmlformats-officedocument.presentationml.presentation, application/vnd.openxmlformats-officedocument.wordprocessingml.document, application/x-zip, application/zip, application/x-zip-compressed, application/x-rar-compressed" data-max-size="52428800" class="lampiran">
