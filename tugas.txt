@@ -57,3 +57,7 @@
 tombol upload tugas dibawah ini
 
 <input type="file" name="lampiran" accept="application/pdf, application/msword, application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/x-xls, application/vnd.ms-powerpoint, application/vnd.openxmlformats-officedocument.presentationml.presentation, application/vnd.openxmlformats-officedocument.wordprocessingml.document, application/x-zip, application/zip, application/x-zip-compressed, application/x-rar-compressed" data-max-size="52428800" class="lampiran">
+
+tombol lihat forum
+<a href="https://usni.estudy.id/mahasiswa/Forum/detil/3032" class="product-title">
+											<span class="btn btn-sm btn-light border-dark">lihat forum</span></a>
